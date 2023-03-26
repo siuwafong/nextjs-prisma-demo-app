@@ -78,7 +78,7 @@ const Home: NextPage = () => {
       <header className={styles.header}>
         <h1 className={styles.title}>Todos</h1>
         <h2 className={styles.desc}>
-          NextJS app connected to Postgres using Prisma and hosted on{" "}
+          NextJS app connected to Postgres using Prisma and hosted on{" "}. This is a test...
           <a href="https://railway.app">Railway</a>
         </h2>
       </header>
